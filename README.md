@@ -1,12 +1,12 @@
 # 👋 Hey there! Welcome to my GitHub!
 
 ## About Me:
-I’m a **21-year-old Computer Engineering student** with **2 years** of experience in **frontend development**. I’m passionate about turning code into real, interactive websites, and that feeling never gets old! 😎
+I’m a **21-year-old Computer Engineering student**. I’m passionate about turning code into real, interactive websites, and that feeling never gets old! 😎
 
 ## Skills & Tools I’ve Worked With:
 - **HTML**, **CSS**, **JavaScript**  
 - **React** (still diving deeper and learning every day)  
-- **Vite**, **Git**, **GitHub**
+- **Vite**, **Git**, **GitHub**, **Redux**, **Tailwind CSS**
 
 ## What I’m Passionate About:
 - I’m really excited about **teamwork** and collaboration. I believe working with others is the best way to grow and learn. If there’s an opportunity to collaborate, I’m all in! 🤝  
